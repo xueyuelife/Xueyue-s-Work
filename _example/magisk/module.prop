@@ -1,0 +1,6 @@
+id=HBWuChang-sleepy
+name=HBWuChangSleepy
+version=0.0.1
+versionCode=1
+author=HBWuChang
+description=Update status by adb and curl
